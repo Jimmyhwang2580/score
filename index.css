@@ -15,8 +15,9 @@ body {
     
 }
  h1{
-    width: 60px;
-    margin: 0 auto 30px auto;
+    width: 100px;
+    height: 100px;
+    margin: auto auto;
     background: black;
 }
 button{
